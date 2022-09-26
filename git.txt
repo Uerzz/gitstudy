@@ -1,0 +1,6 @@
+git init or git clone url
+git status
+git add .
+git commit -m
+
+ssh-keygan -t rsa
